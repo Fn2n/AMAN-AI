@@ -1,0 +1,28 @@
+name: CI
+
+# Typecheck, unit tests, detection evaluation and production build on every push / PR.
+# (The former static GitHub Pages deployment was removed: AMAN AI now needs its server for
+#  live checks, research, AI and server-enforced Secure Deal transactions. Deploy to a Node host such as Vercel.)
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run eval
+      - run: npm run build

@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Secrets: never commit real keys. Only .env.example (placeholders, no values) is committed.
+.env
+.env.*
+!.env.example
+.vercel
+
+# Runtime data (Secure Deal transactions, threat feed)
+.data/
+
+npm-debug.log*
+.DS_Store

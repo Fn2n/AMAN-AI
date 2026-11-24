@@ -1,0 +1,1308 @@
+{
+  "generatedAt": "2026-11-24T08:01:02.869Z",
+  "method": "Live DNS resolution + Tavily web search for the organization's official website",
+  "results": [
+    {
+      "org": "UAE PASS",
+      "domain": "uaepass.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "213.42.56.87"
+        ]
+      },
+      "searchMatch": "https://ids.uaepass.ae/authenticationendpoint/login.do",
+      "sources": [
+        {
+          "url": "https://gulfinfocenter.com/united-arab-emirates/uae-pass",
+          "title": "UAE PASS Guide 2026: Registration, Login, Identity Verification, Security & Digital Services"
+        },
+        {
+          "url": "https://u.ae/en",
+          "title": "Home | The Official Platform of the UAE Government"
+        },
+        {
+          "url": "https://docs.trinsic.id/docs/uae-pass",
+          "title": "UAE Pass"
+        },
+        {
+          "url": "https://www.cbinsights.com/company/uae-pass",
+          "title": "UAE PASS - Products, Competitors, Financials, Employees, Headquarters Locations"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:21.914Z"
+    },
+    {
+      "org": "TAMM Abu Dhabi government services",
+      "domain": "tamm.abudhabi",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "5.194.255.186"
+        ]
+      },
+      "searchMatch": "https://www.tamm.abudhabi",
+      "sources": [
+        {
+          "url": "https://www.tamm.abudhabi",
+          "title": "TAMM - Abu Dhabi Government Services"
+        },
+        {
+          "url": "https://www.tamm.abudhabi/en/contact?feedback=1",
+          "title": "TAMM - Support"
+        },
+        {
+          "url": "https://www.tamm.abudhabi/en/about-tamm",
+          "title": "About TAMM"
+        },
+        {
+          "url": "https://www.tamm.abudhabi/en/Tamm-Cares",
+          "title": "TAMM Cares"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:22.967Z"
+    },
+    {
+      "org": "Abu Dhabi Police",
+      "domain": "adpolice.gov.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "5.194.255.186"
+        ]
+      },
+      "searchMatch": "https://www.adpolice.gov.ae/en",
+      "sources": [
+        {
+          "url": "https://www.adpolice.gov.ae/en/About-Us/AD-Police-History",
+          "title": "AD Police History"
+        },
+        {
+          "url": "https://www.adpolice.gov.ae/en",
+          "title": "AbuDhabi Police"
+        },
+        {
+          "url": "https://www.adpolice.gov.ae/en/ContactUs",
+          "title": "Contact Us"
+        },
+        {
+          "url": "https://www.adpolice.gov.ae/en/About-Us/Vision-Mission-Objectives",
+          "title": "Vision, Mission, and Objectives"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:23.610Z"
+    },
+    {
+      "org": "Abu Dhabi Police",
+      "domain": "abudhabipolice.gov.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "5.194.255.186"
+        ]
+      },
+      "searchMatch": "https://abudhabipolice.gov.ae/en/ContactUs",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/Mfvkp9QZXz5w",
+          "title": "Abu Dhabi Police"
+        },
+        {
+          "url": "https://selling.com/company/abu-dhabi-police/73694776",
+          "title": "https://selling.com/company/abu-dhabi-police/73694776"
+        },
+        {
+          "url": "https://police-station.com/list-of-police-stations-in-abu-dhabi",
+          "title": "List of Police Stations in Abu Dhabi - Police Station"
+        },
+        {
+          "url": "https://www.bayut.com/mybayut/abu-dhabi-police-guide",
+          "title": "Abu Dhabi Police: Services, Stations and More - MyBayut"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:23.826Z"
+    },
+    {
+      "org": "Dubai Police",
+      "domain": "dubaipolice.gov.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "213.42.52.44"
+        ]
+      },
+      "searchMatch": "https://www.dubaipolice.gov.ae/app/home",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/DAwVTsNTzwLA",
+          "title": "Dubai Police HQ"
+        },
+        {
+          "url": "https://www.facebook.com/dubaipolicehq.en",
+          "title": "Dubai Police"
+        },
+        {
+          "url": "https://www.dubaipolice.gov.ae/app/home",
+          "title": "Dubai Police - Smart Secure Together"
+        },
+        {
+          "url": "https://www.dubaipolice.gov.ae/app/services",
+          "title": "Dubai Police - Smart Secure Together"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:24.262Z"
+    },
+    {
+      "org": "UAE Government official portal",
+      "domain": "u.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "79.98.126.26"
+        ]
+      },
+      "searchMatch": "https://u.ae/en",
+      "sources": [
+        {
+          "url": "https://u.ae/en",
+          "title": "Home | The Official Platform of the UAE Government"
+        },
+        {
+          "url": "https://u.ae/en/information-and-services/business/important-digital-services/national-economic-register",
+          "title": "National Economic Register | The Official Portal of the UAE Government"
+        },
+        {
+          "url": "https://u.ae/en/information-and-services/visa-and-emirates-id",
+          "title": "Visa and Emirates ID | The Official Platform of the UAE Government"
+        },
+        {
+          "url": "https://icp.gov.ae/en",
+          "title": "UAE ICP | Federal Authority for Identity, Citizenship, Customs & Port Security"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:24.476Z"
+    },
+    {
+      "org": "UAE Ministry of Interior",
+      "domain": "moi.gov.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "151.253.150.39"
+        ]
+      },
+      "searchMatch": "https://www.moi.gov.ae/media-center/news/uae-ministry-of-interior-participates-in-35th-ccpcj-session-in-vienna",
+      "sources": [
+        {
+          "url": "https://www.moi.gov.ae/media-center/news/uae-ministry-of-interior-participates-in-35th-ccpcj-session-in-vienna",
+          "title": "UAE MINISTRY OF INTERIOR PARTICIPATES IN 35TH CCPCJ SESSION IN VIENNA | Ministry of Interior Services"
+        },
+        {
+          "url": "https://www.moi.gov.ae/en/media-center/news/uae-ministry-of-interior-participates-in-35th-ccpcj-session-in-vienna",
+          "title": "UAE MINISTRY OF INTERIOR PARTICIPATES IN 35TH CCPCJ SESSION IN VIENNA | Ministry of Interior Services"
+        },
+        {
+          "url": "https://moi.gov.ae/en/media-center/news/071526n01",
+          "title": "Ministry of Interior Earns Three International ISO Certifications in Global First | Ministry of Interior Services"
+        },
+        {
+          "url": "https://moi.gov.ae/en/media-center/news/093026n05",
+          "title": "Ministry of Interior Rolls Out “UAE is Safe With Your Digital Awareness” Campaign to Mark Cybersecurity Awareness Month | Ministry of Interior Services"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:25.118Z"
+    },
+    {
+      "org": "ICP Federal Authority for Identity Citizenship",
+      "domain": "icp.gov.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "83.111.28.5"
+        ]
+      },
+      "searchMatch": "https://icp.gov.ae/en",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/loeRIU8GwL0g",
+          "title": "UAE ICP"
+        },
+        {
+          "url": "https://brandfetch.com/icp.gov.ae",
+          "title": "Identity Logo & Icon: Download Transparent PNG & SVG - Brandfetch"
+        },
+        {
+          "url": "https://icp.gov.ae/en",
+          "title": "UAE ICP | Federal Authority for Identity, Citizenship, Customs & Port Security"
+        },
+        {
+          "url": "https://icp.gov.ae/en/about-icp/overview-en",
+          "title": "Overview | Federal Authority for Identity, Citizenship, Customs & Port Security"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:25.328Z"
+    },
+    {
+      "org": "Emirates NBD",
+      "domain": "emiratesnbd.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "194.164.220.51"
+        ]
+      },
+      "searchMatch": "https://www.emiratesnbd.com/en/ways-of-banking/mobile-banking",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/Cn73NCCM0vVW",
+          "title": "Emirates NBD"
+        },
+        {
+          "url": "https://www.emiratesnbd.com/en/ways-of-banking/mobile-banking",
+          "title": "ENBD X Application | Mobile Banking App in the UAE | Emirates NBD"
+        },
+        {
+          "url": "https://www.emiratesnbd.com.eg/en",
+          "title": "Emirates NBD Egypt | Leading Private Sector Bank in Egypt"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.emiratesnbd.android&hl=en_US",
+          "title": "ENBD X - Apps on Google Play"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:25.752Z"
+    },
+    {
+      "org": "First Abu Dhabi Bank FAB",
+      "domain": "bankfab.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "81.16.132.147"
+        ]
+      },
+      "searchMatch": "https://www.bankfab.com/en-ae/contact-us",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/yL7O1Ki7JFTI",
+          "title": "First Abu Dhabi Bank (FAB)"
+        },
+        {
+          "url": "https://www.bankfab.com/en-ae/contact-us",
+          "title": "Contact & Support | First Abu Dhabi Bank (FAB) - UAE"
+        },
+        {
+          "url": "https://leadiq.com/c/first-abu-dhabi-bank-fab/5a323e70540000f500f6c8e7/email-format",
+          "title": "First Abu Dhabi Bank (FAB) Email Formats & Email Address Examples | LeadIQ"
+        },
+        {
+          "url": "https://www.bankfab.com/en-ae/personal",
+          "title": "Personal Banking & Financial Services | FAB UAE"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:25.967Z"
+    },
+    {
+      "org": "ADCB Abu Dhabi Commercial Bank",
+      "domain": "adcb.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "45.15.172.110"
+        ]
+      },
+      "searchMatch": "https://www.adcb.com/en/personal",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/eQkJf4o2VkNl",
+          "title": "Abu Dhabi Commercial Bank"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ADCB",
+          "title": "ADCB - Wikipedia"
+        },
+        {
+          "url": "https://www.adcb.com/en/personal",
+          "title": "A leading banking institution in the UAE"
+        },
+        {
+          "url": "https://ph.investing.com/equities/ad-commercial",
+          "title": "ADCB | Abu Dhabi Commercial Bank PJSC Stock Price - Investing.com PH"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:26.177Z"
+    },
+    {
+      "org": "ADIB Abu Dhabi Islamic Bank",
+      "domain": "adib.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "13.107.246.63"
+        ]
+      },
+      "searchMatch": "https://www.adib.ae/en/personal/accounts",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/CovnaZ83N7Kn",
+          "title": "ADIB - Abu Dhabi Islamic Bank"
+        },
+        {
+          "url": "https://www.facebook.com/ADIB",
+          "title": "Abu Dhabi Islamic Bank - مصرف أبوظبي الإسلامي"
+        },
+        {
+          "url": "https://www.adib.ae/en/personal/accounts",
+          "title": "Open A Personal Banking Account In The UAE | ADIB Abu Dhabi Islamic Bank"
+        },
+        {
+          "url": "https://www.adib.ae",
+          "title": "Financial & Banking Services In The UAE Cards, Financing, Accounts And More  | ADIB Abu Dhabi Islamic Bank"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:26.397Z"
+    },
+    {
+      "org": "Mashreq bank",
+      "domain": "mashreq.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "87.201.244.220"
+        ]
+      },
+      "searchMatch": "https://www.mashreq.com/en/usa/home",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/AwfZgFTcXycS",
+          "title": "Mashreq"
+        },
+        {
+          "url": "https://www.cbinsights.com/company/mashreq-bank/alternatives-competitors",
+          "title": "Top Mashreq Bank Alternatives, Competitors"
+        },
+        {
+          "url": "https://www.mashreq.com/en/usa/home",
+          "title": "Mashreq | Best Consumer Digital Bank | Rise Everyday"
+        },
+        {
+          "url": "https://www.mashreq.com/en/uae/about-us",
+          "title": "Mashreq | About Us | Best Bank In UAE | Rise Everyday"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:26.607Z"
+    },
+    {
+      "org": "Dubai Islamic Bank",
+      "domain": "dib.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "151.253.133.129"
+        ]
+      },
+      "searchMatch": "https://www.dib.ae",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/IuA8kzkbldNk",
+          "title": "DIB"
+        },
+        {
+          "url": "https://www.facebook.com/dib.uae",
+          "title": "Dubai Islamic Bank"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dubai_Islamic_Bank",
+          "title": "Dubai Islamic Bank - Wikipedia"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.dib.app&hl=en_US",
+          "title": "DIB alt mobile banking app - Apps on Google Play"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:26.825Z"
+    },
+    {
+      "org": "Emirates Post",
+      "domain": "emiratespost.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "104.20.34.172",
+          "172.66.150.200"
+        ]
+      },
+      "searchMatch": "https://www.emiratespost.ae",
+      "sources": [
+        {
+          "url": "https://www.emiratespost.ae",
+          "title": "Emirates Post - Delivering Happiness Wherever You Are | Emirates post"
+        },
+        {
+          "url": "https://www.emiratespost.ae/contact-us",
+          "title": "Contact Us"
+        },
+        {
+          "url": "https://www.emiratespost.ae/all-services",
+          "title": "All Services"
+        },
+        {
+          "url": "https://www.emiratespost.ae/all-services/send-shipment-international",
+          "title": "Send An International Shipment"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:27.466Z"
+    },
+    {
+      "org": "Salik Dubai toll",
+      "domain": "salik.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "104.20.23.97",
+          "172.66.169.242"
+        ]
+      },
+      "searchMatch": "https://www.salik.ae/en/about",
+      "sources": [
+        {
+          "url": "https://www.salik.ae/en/about",
+          "title": "Salik Traffic Toll System - Dubai"
+        },
+        {
+          "url": "https://www.salik.ae/en",
+          "title": "Home"
+        },
+        {
+          "url": "https://sr2025.salik.ae/en/overview",
+          "title": "Overview – Salik Sustainability Report 2025"
+        },
+        {
+          "url": "https://sr2024.salik.ae/en/overview",
+          "title": "Overview – Salik Sustainability Report 2024"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:28.103Z"
+    },
+    {
+      "org": "Darb Abu Dhabi toll ITC",
+      "domain": "itc.gov.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "185.66.19.131"
+        ]
+      },
+      "searchMatch": "https://itc.gov.ae/en/darb-exemptions",
+      "sources": [
+        {
+          "url": "https://itc.gov.ae/en/home",
+          "title": "Home"
+        },
+        {
+          "url": "https://itc.gov.ae/en/darb-exemptions",
+          "title": "Darb"
+        },
+        {
+          "url": "https://www.itc.gov.ae/en/about-itc",
+          "title": "About AD Mobility"
+        },
+        {
+          "url": "https://darb.itc.gov.ae",
+          "title": "DARB Platform"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:28.762Z"
+    },
+    {
+      "org": "e& etisalat UAE",
+      "domain": "etisalat.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "213.42.214.53"
+        ]
+      },
+      "searchMatch": "https://www.etisalat.ae/en/enterprise-and-government/industry-solutions/hospitality.html",
+      "sources": [
+        {
+          "url": "https://www.eand.com/en/etisalat-uae.html",
+          "title": "etisalat | e& UAE"
+        },
+        {
+          "url": "https://www.eand.ae/en/generic/contactus-forms/web-block-unblockn.html",
+          "title": "e& (etisalat and ) UAE | Unblock Website"
+        },
+        {
+          "url": "https://www.etisalat.ae/en/enterprise-and-government/industry-solutions/hospitality.html",
+          "title": "Etisalat UAE | Hospitality"
+        },
+        {
+          "url": "https://www.eand.ae/en/enterprise-and-government/old-path/products-and-solutions.html",
+          "title": "Etisalat UAE | products-and-solutions"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:29.187Z"
+    },
+    {
+      "org": "e& group",
+      "domain": "eand.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "151.253.229.147"
+        ]
+      },
+      "searchMatch": "https://www.eand.com/en/news/news-overview.html",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/z3F9dmdUfpgN",
+          "title": "E-Group"
+        },
+        {
+          "url": "https://tavily.com/knowledge/company/ErwkB9c0FrUl",
+          "title": "The E Group."
+        },
+        {
+          "url": "https://www.eand.com/en/news/news-overview.html",
+          "title": "etisalat | News Room"
+        },
+        {
+          "url": "https://eand.com",
+          "title": "etisalat | Index"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:29.401Z"
+    },
+    {
+      "org": "du telecom UAE",
+      "domain": "du.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "94.206.168.161"
+        ]
+      },
+      "searchMatch": "https://www.du.ae/who-we-are",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Du_(company)",
+          "title": "du (company) - Wikipedia"
+        },
+        {
+          "url": "https://tavily.com/knowledge/company/Tx0MSogQA8Zm",
+          "title": "DU Telecom Home"
+        },
+        {
+          "url": "https://www.du.ae/who-we-are",
+          "title": "Who we are | About us | du™"
+        },
+        {
+          "url": "http://www.du.ae/personal/helpandsupport/contact-us",
+          "title": "du | Help and support | Contact Us"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:29.612Z"
+    },
+    {
+      "org": "RTA Dubai Roads and Transport Authority",
+      "domain": "rta.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "213.42.51.106"
+        ]
+      },
+      "searchMatch": "https://www.rta.ae/wps/portal/rta/ae/home/report-dashboard",
+      "sources": [
+        {
+          "url": "https://www.rta.ae/wps/portal/rta/ae/home/report-dashboard",
+          "title": "Reporting dashboard - Roads & Transport Authority"
+        },
+        {
+          "url": "https://ca.finance.yahoo.com/news/first-phase-dubai-loop-project-104347927.html",
+          "title": "First phase of Dubai Loop project with Musk's Boring Company to start immediately, UAE official says"
+        },
+        {
+          "url": "https://ca.finance.yahoo.com/news/first-phase-dubai-loop-project-104347031.html",
+          "title": "First phase of Dubai Loop project with Musk's Boring Company to start immediately, UAE official says"
+        },
+        {
+          "url": "https://finance.yahoo.com/news/first-phase-dubai-loop-project-104347927.html",
+          "title": "First phase of Dubai Loop project with Musk's Boring Company to start immediately, UAE official says"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:30.041Z"
+    },
+    {
+      "org": "DEWA Dubai Electricity and Water",
+      "domain": "dewa.gov.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "23.206.197.113",
+          "23.206.197.91"
+        ]
+      },
+      "searchMatch": "https://www.dewa.gov.ae/en/consumer/supply-management/activation-of-electricity-water-move-in",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dubai_Electricity_and_Water_Authority",
+          "title": "Dubai Electricity and Water Authority - Wikipedia"
+        },
+        {
+          "url": "https://www.dewa.gov.ae/en/consumer/supply-management/activation-of-electricity-water-move-in",
+          "title": "Activation of Electricity/Water (Move-in)"
+        },
+        {
+          "url": "https://leadiq.com/c/dubai-electricity--water-authority---dewa/5a1d8add2400002400654676",
+          "title": "Dubai Electricity & Water Authority - DEWA Company Overview, Contact Details & Competitors | LeadIQ"
+        },
+        {
+          "url": "https://crm.dewa.gov.ae",
+          "title": "Dubai Electricity & Water Authority (DEWA)"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:30.256Z"
+    },
+    {
+      "org": "Central Bank of the UAE",
+      "domain": "centralbank.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "104.18.196.36"
+        ]
+      },
+      "searchMatch": "https://centralbank.ae/en",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/XmpDTiLHV8fi",
+          "title": "Central Bank of The UAE"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Central_Bank_of_the_United_Arab_Emirates",
+          "title": "Central Bank of the United Arab Emirates - Wikipedia"
+        },
+        {
+          "url": "https://centralbank.ae/en",
+          "title": "CBUAE | Central Bank of the UAE"
+        },
+        {
+          "url": "https://centralbank.ae",
+          "title": "مصرف الإمارات العربية المتحدة المركزي | الصفحة الرئيسية"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:30.469Z"
+    },
+    {
+      "org": "Dubai Police eCrime reporting platform",
+      "domain": "ecrime.ae",
+      "verified": false,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "198.50.252.65"
+        ]
+      },
+      "searchMatch": null,
+      "sources": [],
+      "checkedAt": "2026-11-24T08:00:33.371Z"
+    },
+    {
+      "org": "Emirates Auction license plates",
+      "domain": "emiratesauction.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "104.20.44.126",
+          "172.66.169.85"
+        ]
+      },
+      "searchMatch": "https://www.emiratesauction.com",
+      "sources": [
+        {
+          "url": "https://www.newsfilecorp.com/release/162035/Emirates-Auction-breaks-the-world-record-for-the-most-expensive-license-plate-auctioned-at-USD-15m",
+          "title": "Emirates Auction breaks the world record for the most expensive license plate auctioned at USD 15m"
+        },
+        {
+          "url": "https://www.facebook.com/emiratesauction",
+          "title": "Emirates Auction الامارات للمزادات"
+        },
+        {
+          "url": "https://www.emiratesauction.com",
+          "title": "Car, Plate & Property Auctions in the UAE | Emirates Auction"
+        },
+        {
+          "url": "https://www.emiratesauction.com/plates/uae-plates/online",
+          "title": "Own the Road with Your Special Vehicle Number Plate | Emirates Auction"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:33.584Z"
+    },
+    {
+      "org": "dubizzle UAE",
+      "domain": "dubizzle.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "45.60.240.176",
+          "45.60.242.176"
+        ]
+      },
+      "searchMatch": "https://www.dubizzle.com",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/wPJa18HvEtx0",
+          "title": "dubizzle"
+        },
+        {
+          "url": "https://www.facebook.com/dubizzle",
+          "title": "dubizzle"
+        },
+        {
+          "url": "https://x.com/dubizzle?lang=en",
+          "title": "dubizzle (@dubizzle)"
+        },
+        {
+          "url": "https://www.dubizzle.com",
+          "title": "Buy and sell anything in the UAE - dubizzle"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:34.009Z"
+    },
+    {
+      "org": "Aramex",
+      "domain": "aramex.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "23.196.14.88",
+          "23.196.14.73"
+        ]
+      },
+      "searchMatch": "https://www.aramex.com",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/3kqWTAEJNg2q",
+          "title": "Aramex"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aramex",
+          "title": "Aramex - Wikipedia"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=net.aramex&hl=en_US",
+          "title": "Aramex Mobile - Apps on Google Play"
+        },
+        {
+          "url": "https://www.aramex.com",
+          "title": "Home"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:34.223Z"
+    },
+    {
+      "org": "noon UAE",
+      "domain": "noon.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "34.54.128.238"
+        ]
+      },
+      "searchMatch": "https://www.noon.com/uae-en",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/noon_uae?hl=en",
+          "title": "noon (@noon_uae)"
+        },
+        {
+          "url": "https://rocketreach.co/noon-profile_b4b9022efb236569",
+          "title": "noon Information"
+        },
+        {
+          "url": "https://tavily.com/knowledge/company/IqMFWtgWHYZP",
+          "title": "noon"
+        },
+        {
+          "url": "https://www.noon.com/uae-en",
+          "title": "noon Online Shopping UAE - Electronics, Mobiles, Fashion, Appliances & More"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:34.434Z"
+    },
+    {
+      "org": "Careem",
+      "domain": "careem.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "3.251.37.78"
+        ]
+      },
+      "searchMatch": "https://www.careem.com",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/0Wt4iPWP275B",
+          "title": "Careem"
+        },
+        {
+          "url": "https://clientx.ae/participants/careem",
+          "title": "Careem · UAE CX Growth | Customer Experience & Account"
+        },
+        {
+          "url": "https://org.nears.me/careem",
+          "title": "Careem — Technology industry, founded 2012 | Nears.Organizations"
+        },
+        {
+          "url": "https://www.scamy.io/report/careem.site",
+          "title": "Is careem.site a scam? Security & Trust Analysis | Scamy | Scamy"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:34.651Z"
+    },
+    {
+      "org": "Emirates airline",
+      "domain": "emirates.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "23.208.174.12"
+        ]
+      },
+      "searchMatch": "https://www.emirates.com/english/about-us",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/wO2ixb9XBkyJ",
+          "title": "Emirates"
+        },
+        {
+          "url": "https://www.emirates.com/english/about-us",
+          "title": "About us | Emirates"
+        },
+        {
+          "url": "https://www.emirates.com/us/english/book",
+          "title": "Book a flight | Emirates"
+        },
+        {
+          "url": "https://www.emirates.com/english/before-you-fly/travel/rules-and-notices",
+          "title": "Rules and notices | Travel information | Before You Fly | Emirates"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:35.791Z"
+    },
+    {
+      "org": "Etihad Airways",
+      "domain": "etihad.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "23.208.172.184"
+        ]
+      },
+      "searchMatch": "https://www.etihad.com/en-us/manage",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/KNBMS3J810ZG",
+          "title": "Etihad"
+        },
+        {
+          "url": "https://www.etihad.com/en-us/manage",
+          "title": "Manage your booking online - Etihad Airways UAE"
+        },
+        {
+          "url": "https://leadiq.com/c/etihad-airways/5a1d8ae12400002400655273",
+          "title": "Etihad Company Overview, Contact Details & Competitors | LeadIQ"
+        },
+        {
+          "url": "https://www.etihad.com/en-us/help",
+          "title": "Help center - Find all the information | Etihad Airways"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:37.961Z"
+    },
+    {
+      "org": "Amazon UAE",
+      "domain": "amazon.ae",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "3.253.180.212",
+          "3.253.176.68",
+          "3.253.179.62"
+        ]
+      },
+      "searchMatch": "https://www.amazon.ae",
+      "sources": [
+        {
+          "url": "https://theuaeweb.com/amazon-uae",
+          "title": "Amazon UAE: Amazon.ae Shopping, Prime, Delivery, Returns & Guide 2026"
+        },
+        {
+          "url": "https://www.amazon.com/dubai-online-shopping/s?k=dubai+online+shopping",
+          "title": "Amazon.com : dubai online shopping"
+        },
+        {
+          "url": "https://www.amazon.com/uae/s?k=uae",
+          "title": "Amazon.com : uae"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NBJ28b9vSR4",
+          "title": "How to Find Back to School Products to Sell on Amazon UAE (Step-by-Step)"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:39.004Z"
+    },
+    {
+      "org": "Amazon",
+      "domain": "amazon.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "98.87.170.74",
+          "98.87.170.71",
+          "98.82.161.185"
+        ]
+      },
+      "searchMatch": "https://www.amazon.com/uae/s?k=uae",
+      "sources": [
+        {
+          "url": "https://www.amazon.ae/prime",
+          "title": "Amazon.ae: Amazon Prime UAE"
+        },
+        {
+          "url": "https://www.amazon.com/uae/s?k=uae",
+          "title": "Amazon.com : uae"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Zo3aqemEbx4",
+          "title": "Product for Amazon UAE in 2026 | How to Choose a Low Risk Product"
+        },
+        {
+          "url": "https://www.amazon.ae/gp/bestsellers",
+          "title": "amazon.ae Best Sellers: The most popular items on Amazon"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:42.896Z"
+    },
+    {
+      "org": "PayPal",
+      "domain": "paypal.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "162.159.141.96",
+          "151.101.3.1",
+          "151.101.195.1"
+        ]
+      },
+      "searchMatch": "http://paypal.com",
+      "sources": [
+        {
+          "url": "http://paypal.com",
+          "title": "Pay, Send and Save Money with PayPal | PayPal US"
+        },
+        {
+          "url": "https://www.paypal.com",
+          "title": "Pay, Send and Save Money with PayPal | PayPal US"
+        },
+        {
+          "url": "https://www.paypal.com/it/campaign/pay-in-3-full",
+          "title": "PayPal"
+        },
+        {
+          "url": "https://www.paypal.com/uk/zettle",
+          "title": "Zettle by PayPal"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:48.529Z"
+    },
+    {
+      "org": "Apple",
+      "domain": "apple.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "17.253.144.10"
+        ]
+      },
+      "searchMatch": "https://www.apple.com",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/eL7xXx9SgNQa",
+          "title": "Apple"
+        },
+        {
+          "url": "https://www.apple.com",
+          "title": "Apple"
+        },
+        {
+          "url": "https://textranch.com/c/on-the-official-website-or-at-the-official-website",
+          "title": "on the official website or at the official website?"
+        },
+        {
+          "url": "https://www.icloud.com",
+          "title": "iCloud"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:49.757Z"
+    },
+    {
+      "org": "Microsoft",
+      "domain": "microsoft.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "150.171.109.163"
+        ]
+      },
+      "searchMatch": "https://learn.microsoft.com/en-us/answers/questions/3733462/is-this-the-official-website",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/zjGHmpGgUF8p",
+          "title": "Microsoft"
+        },
+        {
+          "url": "https://assets-global.website-files.com/67538c7bccdf753770b4a4f7/691a72ddb296f96efe51ab06_47295925741.pdf",
+          "title": "https://assets-global.website-files.com/67538c7bccdf753770b4a4f7/691a72ddb296f96efe51ab06_47295925741.pdf"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/answers/questions/3733462/is-this-the-official-website",
+          "title": "is this the official website? - Microsoft Q&A"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us",
+          "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:52.010Z"
+    },
+    {
+      "org": "Google",
+      "domain": "google.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "142.251.37.142"
+        ]
+      },
+      "searchMatch": "https://www.google.com",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/G3cVIaB2LvXb",
+          "title": "Google"
+        },
+        {
+          "url": "https://about.google",
+          "title": "About Google: Our products, technology and company information"
+        },
+        {
+          "url": "https://search.google/intl/en-IN",
+          "title": "Home"
+        },
+        {
+          "url": "https://www.google.com",
+          "title": "Google"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:53.955Z"
+    },
+    {
+      "org": "Netflix",
+      "domain": "netflix.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "207.45.72.1",
+          "207.45.73.1"
+        ]
+      },
+      "searchMatch": "https://www.netflix.com/title/81284247",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/NIwgV0rP9so8",
+          "title": "Netflix"
+        },
+        {
+          "url": "https://www.netflix.com/title/81284247",
+          "title": "Watch Disclosure | Netflix Official Site"
+        },
+        {
+          "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+          "title": "Netflix - Overview - Profile"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US",
+          "title": "Netflix - Apps on Google Play"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:56.581Z"
+    },
+    {
+      "org": "WhatsApp",
+      "domain": "whatsapp.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "157.240.227.60"
+        ]
+      },
+      "searchMatch": "https://www.whatsapp.com",
+      "sources": [
+        {
+          "url": "https://utatlan.minegocio-go.com/global-register/whatsapp-your-guide-to-the-official-website-1764796893",
+          "title": "WhatsApp: Your Guide To The Official Website"
+        },
+        {
+          "url": "https://tavily.com/knowledge/company/1sPw42GqnpEX",
+          "title": "WhatsApp"
+        },
+        {
+          "url": "https://lumsx-bbb.lums.edu.pk/fast-dispatch/whatsapps-official-website-everything-you-need-1767647110",
+          "title": "WhatsApp's Official Website: Everything You Need"
+        },
+        {
+          "url": "https://wa.me",
+          "title": "Open WhatsApp"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:58.079Z"
+    },
+    {
+      "org": "DHL",
+      "domain": "dhl.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "159.60.157.223"
+        ]
+      },
+      "searchMatch": "https://www.dhl.com/global-en/home.html",
+      "sources": [
+        {
+          "url": "https://leadiq.com/c/dhl/5a1d958e23000053008440c5",
+          "title": "DHL Company Overview, Contact Details & Competitors | LeadIQ"
+        },
+        {
+          "url": "https://tavily.com/knowledge/company/uq84WZd6NaS3",
+          "title": "DHL"
+        },
+        {
+          "url": "https://www1.hhlink.com/hhlink/ViewWebsiteCopy.aspx?u=www.dhl.com.sg&linkname=DHL+Singapore",
+          "title": "www.dhl.com.sg | DHL Singapore Official Website"
+        },
+        {
+          "url": "https://leadiq.com/c/dhl-express-usa-inc/6185a2e3990e636b3ef91fcf",
+          "title": "DHL EXPRESS USA INC Company Overview, Contact Details & Competitors | LeadIQ"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:00:59.386Z"
+    },
+    {
+      "org": "FedEx",
+      "domain": "fedex.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "170.170.195.98",
+          "170.170.197.104",
+          "170.170.229.100"
+        ]
+      },
+      "searchMatch": "https://www.fedex.com/en-gb/home.html",
+      "sources": [
+        {
+          "url": "https://tavily.com/knowledge/company/YIUvLgh1tOBC",
+          "title": "FedEx"
+        },
+        {
+          "url": "https://www.fedex.com/en-gb/home.html",
+          "title": "Express Delivery, Courier & Shipping Services | FedEx United Kingdom"
+        },
+        {
+          "url": "https://www.fedex.com",
+          "title": "FedEx Global Home - Select Your Location"
+        },
+        {
+          "url": "https://www.fedex.com/en-mx/home.html",
+          "title": "FedEx | Express Delivery, Courier & Shipping Services | Mexico"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:01:00.611Z"
+    },
+    {
+      "org": "Binance",
+      "domain": "binance.com",
+      "verified": true,
+      "dns": {
+        "resolves": true,
+        "a": [
+          "54.168.162.219",
+          "43.207.12.142",
+          "52.68.174.20"
+        ]
+      },
+      "searchMatch": "https://www.binance.com/en",
+      "sources": [
+        {
+          "url": "https://www.binance.com/en",
+          "title": "Binance Crypto Exchange: Buy, Sell Bitcoin, Ethereum, Stocks & More"
+        },
+        {
+          "url": "https://www.binance.com/en/support",
+          "title": "Support Center | Binance Support"
+        },
+        {
+          "url": "https://cryptorank.io/news/feed/c1611-vara-compliance-forces-binance-fze-delisting-of-xmr-zec-fiat-in-uae",
+          "title": "VARA Compliance Forces Binance FZE Delisting of XMR, ZEC, Fiat in UAE | Market Binance | CryptoRank.io"
+        },
+        {
+          "url": "https://cryptorank.io/ru/news/feed/848fb-binance-uae-staff-relocation-asia",
+          "title": "Binance Relocates UAE Staff Amid Regional Turmoil: Strategic Shift to Asian Hubs | Binance UAE | CryptoRank.io"
+        }
+      ],
+      "checkedAt": "2026-11-24T08:01:02.868Z"
+    }
+  ]
+}

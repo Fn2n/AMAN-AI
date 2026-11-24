@@ -1,0 +1,33 @@
+{
+    "name":  "aman-ai",
+    "version":  "1.0.0",
+    "private":  true,
+    "description":  "AMAN AI - bilingual UAE fraud detection with verified evidence, and fraud prevention for vehicle and premium plate transactions (ScamShield AI hackathon)",
+    "scripts":  {
+                    "dev":  "next dev",
+                    "build":  "next build",
+                    "start":  "next start",
+                    "typecheck":  "tsc --noEmit",
+                    "test":  "vitest run",
+                    "eval":  "vitest run --config vitest.eval.config.ts",
+                    "check:providers":  "node scripts/check-providers.mjs",
+                    "verify:domains":  "node scripts/verify-official-domains.mjs"
+                },
+    "dependencies":  {
+                         "next":  "^15.5.0",
+                         "react":  "^19.1.0",
+                         "react-dom":  "^19.1.0",
+                         "server-only":  "^0.0.1",
+                         "tldts":  "^7.5.5"
+                     },
+    "devDependencies":  {
+                            "@types/node":  "^22.10.0",
+                            "@types/react":  "^19.1.0",
+                            "@types/react-dom":  "^19.1.0",
+                            "autoprefixer":  "^10.4.20",
+                            "postcss":  "^8.4.49",
+                            "tailwindcss":  "3.4.17",
+                            "typescript":  "^5.6.3",
+                            "vitest":  "^3.2.4"
+                        }
+}
